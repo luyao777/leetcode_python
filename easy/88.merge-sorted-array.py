@@ -34,5 +34,9 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
+        nums2 = nums1[:m] + nums2
+        nums2.sort()
+        nums1[:n+m] = nums2
+
         
         
