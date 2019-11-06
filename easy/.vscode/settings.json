@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/yaolu/anaconda3/bin/python",
+    "fileheader.tpl": "''' @Author: {author}  @Date: {createTime}  @Last Modified by:   {lastModifiedBy}  @Last Modified time: {updateTime}  '''",
+    "python.formatting.provider": "yapf"
+}
